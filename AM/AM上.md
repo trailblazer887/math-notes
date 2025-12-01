@@ -43,3 +43,7 @@ $$
 $$
 f^{n}(\theta x) = f^{n}(0)+f^{n+1}(0)\theta x+o(\theta x)
 $$
+5. **易错**：
+$$
+\lim\limits_{x \to \infty}{\left[\left(1+\frac{1}{n}\right)^n\right]^n \rm{e}^{-n}} \ne \lim\limits_{x \to \infty}{\rm{e}^n \ \rm{e}^{-n}} = 1
+$$
